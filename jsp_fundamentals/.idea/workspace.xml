@@ -18,6 +18,13 @@
     <option name="HIDE_WARNINGS" value="true" />
     <option name="HIDE_INFO_MESSAGES" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -40,6 +47,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxitron\Software\java\jsp_serverlets_jdbc\jsp_fundamentals\web" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.test.jsp">
     <configuration name="test.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8000/jsp_fundamentals_war_exploded/WEB-INF/test.jsp">
@@ -162,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576032190800</updated>
-      <workItem from="1576032192703" duration="3001000" />
+      <workItem from="1576032192703" duration="5688000" />
     </task>
     <servers />
   </component>
